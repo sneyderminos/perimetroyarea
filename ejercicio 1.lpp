@@ -7,6 +7,6 @@ lea altura
 per<-(base*2)+(altura*2)
 area<- base*altura
 escriba "el perimetro del rectangulo es: ", per
-escriba ">>>>>>>>>>>>>>>>>><<"
+llamar nueva_linea 
 escriba "el area del rectangulo es: ", area
 fin
