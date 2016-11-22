@@ -1,11 +1,6 @@
 entero base, altura, per, area
+// este programa es para hallar el area y el perimetro de un rectangulo
 inicio
-escriba "ingresar base del rectangulo: "
-lea base
-escriba "ingresar altura del rectangulo: "
-lea altura
-per<-(base*2)+(altura*2)
-area<- base*altura
 	escriba "ingresar base del rectangulo: "
 	lea base
 	escriba "ingresar altura del rectangulo: "
