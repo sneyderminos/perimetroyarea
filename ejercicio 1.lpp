@@ -11,3 +11,6 @@ inicio
 	llamar nueva_linea 
 	escriba "el area del rectangulo es: ", area
 fin
+
+// opcion X 
+
